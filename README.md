@@ -2,6 +2,7 @@
 A lightweight Roblox ESP (Extra Sensory Perception) script written in Lua, using the `Drawing` API to render a green bounding box on other players' `HumanoidRootPart`. This allows you to track their location even through walls — great for X-ray-like awareness in games.
 
 ## ⚠️ Disclaimer
+This script is for **educational purposes only**. Misusing it to gain unfair advantages in games may violate Roblox's Terms of Service. Use responsibly.
 
 > 🛡️ **This script is not obfuscated and may be detectable by anti-cheat systems.**  
 > I'm still learning and I don’t yet know how to properly hide or protect the script from detection — **no anti-cheat bypasses are included**.
